@@ -1,0 +1,144 @@
+[2024-02-05 15:31:38.169] [modengine] [info] Attempting to load global config at D:\GAME\Steam\steamapps\common\ELDEN RING\ELDEN_RING_MOD\mods\modengine2\config.toml
+[2024-02-05 15:31:38.169] [modengine] [info] Attempting to load mod settings config at D:\GAME\Steam\steamapps\common\ELDEN RING\ELDEN_RING_MOD\mods\config_eldenring.toml
+[2024-02-05 15:31:38.178] [modengine] [info] Local config loaded
+[2024-02-05 15:31:38.178] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-02-05 15:31:38.178] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-02-05 15:31:38.178] [modengine] [info] Main thread ID: 4628
+[2024-02-05 15:31:38.184] [modengine] [info] Enabling extension base
+[2024-02-05 15:31:38.184] [modengine] [info] Enabled extension base
+[2024-02-05 15:31:38.184] [modengine] [info] Enabling extension mod_loader
+[2024-02-05 15:31:38.184] [modengine] [info] Installing mod location mod
+[2024-02-05 15:31:38.184] [modengine] [info] Resolved mod path to D:\GAME\Steam\steamapps\common\ELDEN RING\ELDEN_RING_MOD\mods\mod
+[2024-02-05 15:31:38.184] [modengine] [info] Enabled extension mod_loader
+[2024-02-05 15:31:38.312] [modengine] [info] Applied 3 hooks
+[2024-02-05 15:31:38.314] [modengine] [info] Starting worker thread
+[2024-02-05 15:49:11.604] [modengine] [info] Destroying
+[2024-02-05 15:49:11.605] [modengine] [info] Destroying
+[2024-02-05 15:49:11.605] [modengine] [info] Destroying
+[2024-02-05 15:49:11.605] [modengine] [info] Destroying
+[2024-02-05 15:49:11.605] [modengine] [info] Destroying
+[2024-02-05 15:49:11.605] [modengine] [info] Destroying
+[2024-02-05 15:49:11.605] [modengine] [info] Destroying
+[2024-02-05 15:49:11.607] [modengine] [info] Destroying
+[2024-02-05 15:49:11.607] [modengine] [info] Destroying
+[2024-02-05 15:49:11.609] [modengine] [info] Destroying
+[2024-02-05 19:27:14.381] [modengine] [info] Attempting to load global config at D:\GAME\Steam\steamapps\common\ELDEN RING\ELDEN_RING_MOD\mods\modengine2\config.toml
+[2024-02-05 19:27:14.381] [modengine] [info] Attempting to load mod settings config at D:\GAME\Steam\steamapps\common\ELDEN RING\ELDEN_RING_MOD\mods\config_eldenring.toml
+[2024-02-05 19:27:14.389] [modengine] [info] Local config loaded
+[2024-02-05 19:27:14.389] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-02-05 19:27:14.389] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-02-05 19:27:14.389] [modengine] [info] Main thread ID: 8024
+[2024-02-05 19:27:14.392] [modengine] [info] Enabling extension base
+[2024-02-05 19:27:14.392] [modengine] [info] Enabled extension base
+[2024-02-05 19:27:14.392] [modengine] [info] Enabling extension mod_loader
+[2024-02-05 19:27:14.392] [modengine] [info] Installing mod location mod
+[2024-02-05 19:27:14.392] [modengine] [info] Resolved mod path to D:\GAME\Steam\steamapps\common\ELDEN RING\ELDEN_RING_MOD\mods\mod
+[2024-02-05 19:27:14.392] [modengine] [info] Enabled extension mod_loader
+[2024-02-05 19:27:14.493] [modengine] [info] Applied 3 hooks
+[2024-02-05 19:27:14.494] [modengine] [info] Starting worker thread
+[2024-02-05 19:37:34.536] [modengine] [info] Destroying
+[2024-02-05 19:37:34.536] [modengine] [info] Destroying
+[2024-02-05 19:37:34.536] [modengine] [info] Destroying
+[2024-02-05 19:37:34.536] [modengine] [info] Destroying
+[2024-02-05 19:37:34.536] [modengine] [info] Destroying
+[2024-02-05 19:37:34.536] [modengine] [info] Destroying
+[2024-02-05 19:37:34.536] [modengine] [info] Destroying
+[2024-02-05 19:37:34.536] [modengine] [info] Destroying
+[2024-02-05 19:37:34.536] [modengine] [info] Destroying
+[2024-02-05 19:37:34.537] [modengine] [info] Destroying
+[2024-02-05 19:39:05.948] [modengine] [info] Attempting to load global config at D:\GAME\Steam\steamapps\common\ELDEN RING\ELDEN_RING_MOD\mods\modengine2\config.toml
+[2024-02-05 19:39:05.948] [modengine] [info] Attempting to load mod settings config at D:\GAME\Steam\steamapps\common\ELDEN RING\ELDEN_RING_MOD\mods\config_eldenring.toml
+[2024-02-05 19:39:05.949] [modengine] [info] Local config loaded
+[2024-02-05 19:39:05.949] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-02-05 19:39:05.949] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-02-05 19:39:05.949] [modengine] [info] Main thread ID: 3348
+[2024-02-05 19:39:05.952] [modengine] [info] Enabling extension base
+[2024-02-05 19:39:05.952] [modengine] [info] Enabled extension base
+[2024-02-05 19:39:05.952] [modengine] [info] Enabling extension mod_loader
+[2024-02-05 19:39:05.952] [modengine] [info] Installing mod location mod
+[2024-02-05 19:39:05.952] [modengine] [info] Resolved mod path to D:\GAME\Steam\steamapps\common\ELDEN RING\ELDEN_RING_MOD\mods\mod
+[2024-02-05 19:39:05.952] [modengine] [info] Enabled extension mod_loader
+[2024-02-05 19:39:06.048] [modengine] [info] Applied 3 hooks
+[2024-02-05 19:39:06.050] [modengine] [info] Starting worker thread
+[2024-02-05 19:45:04.948] [modengine] [info] Destroying
+[2024-02-05 19:45:04.948] [modengine] [info] Destroying
+[2024-02-05 19:45:04.948] [modengine] [info] Destroying
+[2024-02-05 19:45:04.948] [modengine] [info] Destroying
+[2024-02-05 19:45:04.948] [modengine] [info] Destroying
+[2024-02-05 19:45:04.948] [modengine] [info] Destroying
+[2024-02-05 19:45:04.948] [modengine] [info] Destroying
+[2024-02-05 19:45:04.949] [modengine] [info] Destroying
+[2024-02-05 19:45:04.949] [modengine] [info] Destroying
+[2024-02-05 19:45:04.950] [modengine] [info] Destroying
+[2024-02-05 19:52:57.243] [modengine] [info] Attempting to load global config at D:\GAME\Steam\steamapps\common\ELDEN RING\ELDEN_RING_MOD\mods\modengine2\config.toml
+[2024-02-05 19:52:57.243] [modengine] [info] Attempting to load mod settings config at D:\GAME\Steam\steamapps\common\ELDEN RING\ELDEN_RING_MOD\mods\config_eldenring.toml
+[2024-02-05 19:52:57.244] [modengine] [info] Local config loaded
+[2024-02-05 19:52:57.244] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-02-05 19:52:57.244] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-02-05 19:52:57.244] [modengine] [info] Main thread ID: 7780
+[2024-02-05 19:52:57.247] [modengine] [info] Enabling extension base
+[2024-02-05 19:52:57.247] [modengine] [info] Enabled extension base
+[2024-02-05 19:52:57.247] [modengine] [info] Enabling extension mod_loader
+[2024-02-05 19:52:57.247] [modengine] [info] Installing mod location mod
+[2024-02-05 19:52:57.247] [modengine] [info] Resolved mod path to D:\GAME\Steam\steamapps\common\ELDEN RING\ELDEN_RING_MOD\mods\mod
+[2024-02-05 19:52:57.247] [modengine] [info] Enabled extension mod_loader
+[2024-02-05 19:52:57.347] [modengine] [info] Applied 3 hooks
+[2024-02-05 19:52:57.349] [modengine] [info] Starting worker thread
+[2024-02-05 19:58:18.220] [modengine] [info] Destroying
+[2024-02-05 19:58:18.220] [modengine] [info] Destroying
+[2024-02-05 19:58:18.220] [modengine] [info] Destroying
+[2024-02-05 19:58:18.220] [modengine] [info] Destroying
+[2024-02-05 19:58:18.220] [modengine] [info] Destroying
+[2024-02-05 19:58:18.220] [modengine] [info] Destroying
+[2024-02-05 19:58:18.220] [modengine] [info] Destroying
+[2024-02-05 19:58:18.220] [modengine] [info] Destroying
+[2024-02-05 19:58:18.220] [modengine] [info] Destroying
+[2024-02-05 19:58:18.222] [modengine] [info] Destroying
+[2024-02-05 19:59:20.104] [modengine] [info] Attempting to load global config at D:\GAME\Steam\steamapps\common\ELDEN RING\ELDEN_RING_MOD\mods\modengine2\config.toml
+[2024-02-05 19:59:20.105] [modengine] [info] Attempting to load mod settings config at D:\GAME\Steam\steamapps\common\ELDEN RING\ELDEN_RING_MOD\mods\config_eldenring.toml
+[2024-02-05 19:59:20.105] [modengine] [info] Local config loaded
+[2024-02-05 19:59:20.105] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-02-05 19:59:20.105] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-02-05 19:59:20.105] [modengine] [info] Main thread ID: 7536
+[2024-02-05 19:59:20.108] [modengine] [info] Enabling extension base
+[2024-02-05 19:59:20.108] [modengine] [info] Enabled extension base
+[2024-02-05 19:59:20.108] [modengine] [info] Enabling extension mod_loader
+[2024-02-05 19:59:20.108] [modengine] [info] Installing mod location mod
+[2024-02-05 19:59:20.108] [modengine] [info] Resolved mod path to D:\GAME\Steam\steamapps\common\ELDEN RING\ELDEN_RING_MOD\mods\mod
+[2024-02-05 19:59:20.108] [modengine] [info] Enabled extension mod_loader
+[2024-02-05 19:59:20.209] [modengine] [info] Applied 3 hooks
+[2024-02-05 19:59:20.211] [modengine] [info] Starting worker thread
+[2024-02-05 20:00:32.758] [modengine] [info] Destroying
+[2024-02-05 20:00:32.758] [modengine] [info] Destroying
+[2024-02-05 20:00:32.758] [modengine] [info] Destroying
+[2024-02-05 20:00:32.758] [modengine] [info] Destroying
+[2024-02-05 20:00:32.758] [modengine] [info] Destroying
+[2024-02-05 20:00:32.758] [modengine] [info] Destroying
+[2024-02-05 20:00:32.758] [modengine] [info] Destroying
+[2024-02-05 20:00:32.758] [modengine] [info] Destroying
+[2024-02-05 20:00:32.758] [modengine] [info] Destroying
+[2024-02-05 20:00:32.763] [modengine] [info] Destroying
+[2024-02-05 20:00:58.593] [modengine] [info] Attempting to load global config at D:\GAME\Steam\steamapps\common\ELDEN RING\ELDEN_RING_MOD\mods\modengine2\config.toml
+[2024-02-05 20:00:58.593] [modengine] [info] Attempting to load mod settings config at D:\GAME\Steam\steamapps\common\ELDEN RING\ELDEN_RING_MOD\mods\config_eldenring.toml
+[2024-02-05 20:00:58.594] [modengine] [info] Local config loaded
+[2024-02-05 20:00:58.594] [modengine] [info] ModEngine version 2.1.0-0924ab36f1311bf84e7e626740b4bf2c0d54909a initializing for Elden Ring
+[2024-02-05 20:00:58.594] [modengine] [info] Local settings loaded: true, Global settings loaded: false
+[2024-02-05 20:00:58.594] [modengine] [info] Main thread ID: 8364
+[2024-02-05 20:00:58.597] [modengine] [info] Enabling extension base
+[2024-02-05 20:00:58.597] [modengine] [info] Enabled extension base
+[2024-02-05 20:00:58.597] [modengine] [info] Enabling extension mod_loader
+[2024-02-05 20:00:58.597] [modengine] [info] Installing mod location mod
+[2024-02-05 20:00:58.597] [modengine] [info] Resolved mod path to D:\GAME\Steam\steamapps\common\ELDEN RING\ELDEN_RING_MOD\mods\mod
+[2024-02-05 20:00:58.597] [modengine] [info] Enabled extension mod_loader
+[2024-02-05 20:00:58.694] [modengine] [info] Applied 3 hooks
+[2024-02-05 20:00:58.696] [modengine] [info] Starting worker thread
+[2024-02-05 20:03:05.647] [modengine] [info] Destroying
+[2024-02-05 20:03:05.647] [modengine] [info] Destroying
+[2024-02-05 20:03:05.647] [modengine] [info] Destroying
+[2024-02-05 20:03:05.647] [modengine] [info] Destroying
+[2024-02-05 20:03:05.647] [modengine] [info] Destroying
+[2024-02-05 20:03:05.647] [modengine] [info] Destroying
+[2024-02-05 20:03:05.647] [modengine] [info] Destroying
+[2024-02-05 20:03:05.648] [modengine] [info] Destroying
+[2024-02-05 20:03:05.648] [modengine] [info] Destroying
+[2024-02-05 20:03:05.650] [modengine] [info] Destroying
